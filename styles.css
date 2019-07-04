@@ -2,7 +2,7 @@ body{
   background-color:#5CDB95;
 }
 h1 {
-  background-color:rgb(6, 48, 90);
+  background-color:#05386B;
   color:#5CDB95;
   text-align:center;
   font-family:verdana;
@@ -17,7 +17,4 @@ p{
 }
 ul{
   line-height: 50px;
-}
-.pic{
-  height:300px;
 }
