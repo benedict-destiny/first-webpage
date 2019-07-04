@@ -2,7 +2,8 @@ body{
   background-color:#5CDB95;
 }
 h1 {
-  color:#05386B;
+  background-color:#05386B;
+  color:#5CDB95;
   text-align:center;
   font-family:verdana;
   font-size:60px;
@@ -12,5 +13,8 @@ h2 {
   font-style:italic;
 }
 p{
-  text-decoration-color:white;
+  color:#05386B;
+}
+ul{
+  line-height: 50px;
 }
